@@ -1,4 +1,4 @@
-## Welcome to FPC'S Homepage
+## Welcome to FPC'S Homepages
 
 You can use the [editor on GitHub](https://www.google.com/) to maintain and preview the content for your website in Markdown files.
 
