@@ -1,5 +1,3 @@
-# Welcome to LPC'S Homepages
-
 >## LIBERTY     ## CONSERVATIVE  ## RENAISSANCE
 >>### under god，united allies，crush enemies.
     
