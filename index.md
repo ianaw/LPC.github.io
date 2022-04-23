@@ -5,7 +5,6 @@
 李承鹏
 
 <pre> 
-```markdown
 2022年，上海人民说：“在这么短暂的人生中，我们少了一个春天”。上一年少了一个春天的是长春，再上一年，是武汉。其实还有更多，我不记得了。
 
 其实每一个人每一秒钟都可以少一个春天，只要心头还笼罩着精神方舱。一个叫钱文雄的男人受不了压力就上吊自缢了，差不多同时，一个叫陈顺平的小提琴手也跳楼自杀。后者总是让我想起傅雷，死得很礼貌很温情，为了让妻子多睡会儿，只留下两张纸条，就翻身从五楼跳下去。
@@ -101,7 +100,6 @@
 《白鹿原》里有这么一段：几十年后，红卫兵们从原上走下来，挖开了朱先生的墓，正在批斗骸骨时，发现一块砖，正面写一排小字：天作孽，犹可违；反面也写一排小字：自作孽，不可活。红卫兵们怒不可遏，把砖头扔在地下，那砖忽裂成两半，原来是夹层砖，中间赫然写着一排字：
 
 “折腾到何时为止”
-```
 </pre>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
