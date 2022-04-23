@@ -1,7 +1,7 @@
 >## LIBERTY     CONSERVATIVE      RENAISSANCE
 >>### under god，united allies，crush enemies.
     
-上海是预示未来一百年的大河
+<font color="#dd0000">上海是预示未来一百年的大河</font><br /> 
 =========================
 
 李承鹏
