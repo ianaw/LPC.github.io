@@ -1,5 +1,5 @@
 ># LIBERTY     CONSERVATIVE      RENAISSANCE
->>## under god，united allies，crush enemies.
+>>## under god，united allies，crush darkness.
     
 ### 上海是预示未来一百年的大河
      
