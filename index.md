@@ -1,7 +1,7 @@
 ># LIBERTY     CONSERVATIVE      RENAISSANCE
 >>## under god，united allies，crush darkness.
     
-# 共和.民主.宪政
+# **共和.民主.宪政**
      
 #### 刘军宁
 
